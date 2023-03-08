@@ -1,0 +1,48 @@
+/* Responsive width, matches with default bootstrap navbar */
+.page404_background {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.page404 {
+    max-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (max-width: 1400px) {
+    .page404 {
+        max-width: 1120px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .page404 {
+        max-width: 940px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .page404 {
+        max-width: 700px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .page404 {
+        max-width: 520px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .page404 {
+        max-width: 520px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .page404 {
+        max-width: 96.5%;
+    }
+}
