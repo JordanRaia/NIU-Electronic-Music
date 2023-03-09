@@ -1,13 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import "./Synths.css";
 import Harmonic from "./Harmonic";
-// firebase
-import { db } from "../firebase";
-import { onValue, ref } from "firebase/database";
 
 function Synth(synth = "none") {
-
-
     return (
         <div className="synths">
             <h1>{synth.synth}</h1>
