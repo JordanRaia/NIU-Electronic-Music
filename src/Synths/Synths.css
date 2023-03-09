@@ -1,0 +1,73 @@
+/* Responsive width, matches with default bootstrap navbar */
+.synths_background {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.synths {
+    max-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (max-width: 1400px) {
+    .synths {
+        max-width: 1120px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .synths {
+        max-width: 940px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .synths {
+        max-width: 700px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .synths {
+        max-width: 520px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .synths {
+        max-width: 520px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .synths {
+        max-width: 96.5%;
+    }
+}
+
+.synth__label {
+    display: flex;
+    flex-direction: column;
+}
+
+.synth__input {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.synth__slider {
+    width: 100%;
+    margin-left: .5rem;
+}
+
+.synth__float {
+    width: 100%;
+    margin-left: .5rem;
+}
+
+.synth__select {
+    width: 100%;
+    margin-left: .5rem;
+}

@@ -55,25 +55,25 @@ function Header() {
                                     >
                                         <NavDropdown.Item
                                             as={Link}
-                                            to={"/Synth/Lead"}
+                                            to={"/Synths/Lead"}
                                         >
                                             Lead
                                         </NavDropdown.Item>
                                         <NavDropdown.Item
                                             as={Link}
-                                            to={"/Synth/Arp"}
+                                            to={"/Synths/Arp"}
                                         >
                                             Arp
                                         </NavDropdown.Item>
                                         <NavDropdown.Item
                                             as={Link}
-                                            to={"/Synth/Pad"}
+                                            to={"/Synths/Pad"}
                                         >
                                             Pad
                                         </NavDropdown.Item>
                                         <NavDropdown.Item
                                             as={Link}
-                                            to={"/Synth/Bass"}
+                                            to={"/Synths/Bass"}
                                         >
                                             Bass
                                         </NavDropdown.Item>
