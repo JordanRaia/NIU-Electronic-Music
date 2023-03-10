@@ -40,6 +40,31 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-334",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 276.0, 506.0, 150.0, 20.0 ],
+					"text" : "QR Code to go to page"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"autofit" : 1,
+					"forceaspect" : 1,
+					"id" : "obj-331",
+					"maxclass" : "fpic",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "jit_matrix" ],
+					"patching_rect" : [ 276.0, 535.0, 713.0, 713.0 ],
+					"pic" : "C:/Users/Jordan/Documents/CSCI/Projects/niu_electronic_music/Max/LeadSynthQR.png"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-329",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -2889,6 +2914,13 @@
 			}
  ],
 		"dependency_cache" : [ 			{
+				"name" : "LeadSynthQR.png",
+				"bootpath" : "~/Documents/CSCI/Projects/niu_electronic_music/Max",
+				"patcherrelativepath" : ".",
+				"type" : "PNG",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "launchpad.maxpat",
 				"bootpath" : "~/Documents/CSCI/Projects/niu_electronic_music/Max",
 				"patcherrelativepath" : ".",
