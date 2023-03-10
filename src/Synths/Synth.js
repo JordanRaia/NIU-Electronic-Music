@@ -6,6 +6,11 @@ function Synth(synth = "none") {
     return (
         <div className="synths">
             <h1>{synth.synth}</h1>
+            <h2>Generate sound using AI</h2>
+            <form className="synth__flex">
+                <input className="synth__text" type="text" />
+                <button disabled>Submit</button>
+            </form>
             <form>
                 <Harmonic synth={synth.synth} harmonic={0} />
                 <Harmonic synth={synth.synth} harmonic={1} />
