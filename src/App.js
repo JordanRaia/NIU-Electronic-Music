@@ -17,10 +17,8 @@ function App() {
                     <Route path="synths" element={<Synths />} />
                     <Route path="chords" element={<Chords />} />
                     <Route path="drums" element={<Drums />} />
+                    <Route path="lead" element={<Lead />} />
                     <Route path="*" element={<Page404 />} />
-                    <Route path="synths">
-                        <Route path="lead" element={<Lead />} />
-                    </Route>
                 </Route>
             </Routes>
         </div>
