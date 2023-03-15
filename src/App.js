@@ -3,7 +3,7 @@ import Header from "./Header/Header";
 import Home from "./Home/Home";
 import Page404 from "./Page404/Page404";
 import Synths from "./Synths/Synths";
-import Synth from "./Synths/Synth";
+import Lead from "./Synths/Lead";
 import Chords from "./Chords/Chords";
 import Drums from "./Drums/Drums";
 import "./Background/Background.css";
@@ -19,10 +19,7 @@ function App() {
                     <Route path="drums" element={<Drums />} />
                     <Route path="*" element={<Page404 />} />
                     <Route path="synths">
-                        <Route path="lead" element={<Synth synth={"lead"} />} />
-                        <Route path="bass" element={<Synth synth={"bass"} />} />
-                        <Route path="arp" element={<Synth synth={"arp"} />} />
-                        <Route path="pad" element={<Synth synth={"pad"} />} />
+                        <Route path="lead" element={<Lead />} />
                     </Route>
                 </Route>
             </Routes>
