@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { db } from "../firebase";
 import { onValue, ref, set } from "firebase/database";
 
-function Harmonic(harmonic) {
+function Harmonic({harmonic, synth}) {
     const [Multiple, setMultiple] = useState(1.0);
     const [Volume, setVolume] = useState(127);
     const [Wave, setWave] = useState("sine");
@@ -11,9 +11,9 @@ function Harmonic(harmonic) {
     // get path to the harmonic in the database
     var harmonicPath;
     if (isFundamental()) {
-        harmonicPath = `synths/${harmonic.synth}/Fundamental/`;
+        harmonicPath = `synths/${synth}/Fundamental/`;
     } else {
-        harmonicPath = `synths/${harmonic.synth}/Harmonic_${harmonic.harmonic}/`;
+        harmonicPath = `synths/${synth}/Harmonic_${harmonic}/`;
     }
 
     // references in the database
@@ -53,7 +53,7 @@ function Harmonic(harmonic) {
     }
 
     function isFundamental() {
-        if (harmonic.harmonic === 0) {
+        if (harmonic === 0) {
             return true;
         } else {
             return false;
@@ -66,7 +66,7 @@ function Harmonic(harmonic) {
                 <h2>
                     {isFundamental()
                         ? "Fundamental"
-                        : `Harmonic ${harmonic.harmonic}`}
+                        : `Harmonic ${harmonic}`}
                 </h2>
                 <div className="synth__input">
                     <label>Multiple: </label>
