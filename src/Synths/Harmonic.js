@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { db } from "../firebase";
 import { onValue, ref, set } from "firebase/database";
 
-function Harmonic({harmonic, synth}) {
+function Harmonic({harmonic = 0, synth = "none"}) {
     const [Multiple, setMultiple] = useState(1.0);
     const [Volume, setVolume] = useState(127);
     const [Wave, setWave] = useState("sine");
