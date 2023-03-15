@@ -2,9 +2,7 @@ import React from "react";
 import "./Synths.css";
 import Harmonic from "./Harmonic";
 
-function Bass() {
-    const synth = "bass";
-
+function Lead({synth = "none"}) {
     return (
         <div className="synths">
             <h2>Generate sound using AI</h2>
@@ -34,4 +32,4 @@ function Bass() {
     );
 }
 
-export default Bass;
+export default Lead;
