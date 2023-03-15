@@ -18,10 +18,12 @@ function App() {
                     <Route path="chords" element={<Chords />} />
                     <Route path="drums" element={<Drums />} />
                     <Route path="*" element={<Page404 />} />
-                    <Route path="synths/lead" element={<Synth synth="lead" />} />
-                    <Route path="synths/bass" element={<Synth synth="bass" />} />
-                    <Route path="synths/arp" element={<Synth synth="arp" />} />
-                    <Route path="synths/pad" element={<Synth synth="pad" />} />
+                    <Route path="synths">
+                        <Route path="lead" element={<Synth synth="lead" />} />
+                        <Route path="bass" element={<Synth synth="bass" />} />
+                        <Route path="arp" element={<Synth synth="arp" />} />
+                        <Route path="pad" element={<Synth synth="pad" />} />
+                    </Route>
                 </Route>
             </Routes>
         </div>
