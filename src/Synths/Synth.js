@@ -3,7 +3,6 @@ import "./Synths.css";
 import Harmonic from "./Harmonic";
 
 function Synth({ synth = "none" }) {
-    console.log(synth)
     return (
         <div className="synths">
             <h2>Generate sound using AI</h2>
