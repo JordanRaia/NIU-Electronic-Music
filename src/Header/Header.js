@@ -37,14 +37,14 @@ function Header() {
                                     </Nav.Link>
                                     <Nav.Link
                                         as={Link}
-                                        to={"/Chords"}
+                                        to={"/chords"}
                                         className="header__navLink"
                                     >
                                         Chords
                                     </Nav.Link>
                                     <Nav.Link
                                         as={Link}
-                                        to={"/Drums"}
+                                        to={"/drums"}
                                         className="header__navLink"
                                     >
                                         Drums
@@ -55,25 +55,25 @@ function Header() {
                                     >
                                         <NavDropdown.Item
                                             as={Link}
-                                            to={"/Synths/Lead"}
+                                            to={"/synths/lead"}
                                         >
                                             Lead
                                         </NavDropdown.Item>
                                         <NavDropdown.Item
                                             as={Link}
-                                            to={"/Synths/Arp"}
+                                            to={"/synths/arp"}
                                         >
                                             Arp
                                         </NavDropdown.Item>
                                         <NavDropdown.Item
                                             as={Link}
-                                            to={"/Synths/Pad"}
+                                            to={"/synths/pad"}
                                         >
                                             Pad
                                         </NavDropdown.Item>
                                         <NavDropdown.Item
                                             as={Link}
-                                            to={"/Synths/Bass"}
+                                            to={"/synths/bass"}
                                         >
                                             Bass
                                         </NavDropdown.Item>

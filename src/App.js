@@ -14,14 +14,14 @@ function App() {
             <Routes>
                 <Route path="/" element={<Header>Header content</Header>}>
                     <Route path="" element={<Home />} />
-                    <Route path="Synths" element={<Synths />} />
-                    <Route path="Chords" element={<Chords />} />
-                    <Route path="Drums" element={<Drums />} />
+                    <Route path="synths" element={<Synths />} />
+                    <Route path="chords" element={<Chords />} />
+                    <Route path="drums" element={<Drums />} />
                     <Route path="*" element={<Page404 />} />
-                    <Route path="Synths/Lead" element={<Synth synth="lead" />} />
-                    <Route path="Synths/Bass" element={<Synth synth="bass" />} />
-                    <Route path="Synths/Arp" element={<Synth synth="arp" />} />
-                    <Route path="Synths/Pad" element={<Synth synth="pad" />} />
+                    <Route path="synths/Lead" element={<Synth synth="lead" />} />
+                    <Route path="synths/Bass" element={<Synth synth="bass" />} />
+                    <Route path="synths/Arp" element={<Synth synth="arp" />} />
+                    <Route path="synths/Pad" element={<Synth synth="pad" />} />
                 </Route>
             </Routes>
         </div>
