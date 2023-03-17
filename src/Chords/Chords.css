@@ -46,3 +46,32 @@
         max-width: 96.5%;
     }
 }
+
+.chords__beat {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: underline;
+}
+
+.chords__row {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.chords__buttonActive {
+    width: 100%;
+    background-color: green;
+}
+
+.chords__buttonInactive {
+    width: 100%;
+    background-color: white;
+}
+
+.chords__chordLabel {
+    width: 100%;
+}
