@@ -122,3 +122,9 @@ function bpmToMs(bpm) {
     var ms = (1000 * 60) / bpm;
     outlet(0, ms);
 }
+
+// converts int to chord name
+function intToChordName(chord) {
+    var chordNames = ["i", "ii°", "III", "iv", "v", "VI", "VII"];
+    outlet(0, chordNames[chord - 1]);
+}
