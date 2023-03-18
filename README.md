@@ -3,7 +3,7 @@
 https://niu-electronic-music-f62f1.web.app/
 
 # To Run Maxpatch
-Download the repository by clicking green code button in top right and download zip
+Download the repository by clicking green "Code" button in top right and download zip
 Open the Max folder and run Midterm.maxpatch
 
 # Abilities
