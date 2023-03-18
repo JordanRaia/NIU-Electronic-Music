@@ -1,4 +1,6 @@
 # NIU-Electronic-Music
+A Maxpatch that interacts with a firebase database which can be controlled via a frontend webpage hosted on firebase.
+
 ## Link to page:
 https://niu-electronic-music-f62f1.web.app/
 
