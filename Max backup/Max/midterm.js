@@ -1,20 +1,17 @@
 autowatch = 1;
 
-// // new Dict object
-// var myDict = new Dict("synthDict");
+// new Dict object
+var myDict = new Dict("synthDict");
 
 // parses the data in the Dict object
 // parsedDict - parsed Data
 // parseDict - function to parse the data
-function parseDict(parsedDictString, unparsedDictString) {
-    // create a new Dict object to store the unparsed data
-    var myDict = new Dict(unparsedDictString);
-
+function parseDict() {
     // get the data from the Dict object as a string
     var dataAsString = myDict.get("body");
 
     // create a new Dict object to store the parsed data
-    var parsedDict = new Dict(parsedDictString);
+    var parsedDict = new Dict("parsedDict");
 
     // parse the data
     parsedDict.parse(dataAsString);
@@ -32,19 +29,6 @@ function getFloat(a, b) {
         float = b;
     }
     outlet(0, parseFloat(float));
-}
-
-// remove the prepend from the string and convert to float
-function getInt(a, b) {
-    var int;
-    try {
-        // attempt to remove quotes
-        int = b.replace(/"/g, "");
-    } catch (err) {
-        // if it fails, just use the original value (assuming that means no quotes)
-        int = b;
-    }
-    outlet(0, parseInt(int));
 }
 
 // just return b to get wave type

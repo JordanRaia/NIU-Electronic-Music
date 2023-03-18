@@ -270,7 +270,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -282,7 +282,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 193.0, 22.0 ],
-									"text" : "get lead::Harmonic_15::wave_type"
+									"text" : "get bass::Harmonic_15::wave_type"
 								}
 
 							}
@@ -495,7 +495,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -507,7 +507,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 193.0, 22.0 ],
-									"text" : "get lead::Harmonic_14::wave_type"
+									"text" : "get bass::Harmonic_14::wave_type"
 								}
 
 							}
@@ -720,7 +720,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -732,7 +732,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 193.0, 22.0 ],
-									"text" : "get lead::Harmonic_13::wave_type"
+									"text" : "get bass::Harmonic_13::wave_type"
 								}
 
 							}
@@ -945,7 +945,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -957,7 +957,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 193.0, 22.0 ],
-									"text" : "get lead::Harmonic_12::wave_type"
+									"text" : "get bass::Harmonic_12::wave_type"
 								}
 
 							}
@@ -1170,7 +1170,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -1182,7 +1182,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 192.0, 22.0 ],
-									"text" : "get lead::Harmonic_11::wave_type"
+									"text" : "get bass::Harmonic_11::wave_type"
 								}
 
 							}
@@ -1395,7 +1395,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -1407,7 +1407,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 193.0, 22.0 ],
-									"text" : "get lead::Harmonic_10::wave_type"
+									"text" : "get bass::Harmonic_10::wave_type"
 								}
 
 							}
@@ -1620,7 +1620,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -1632,7 +1632,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 187.0, 22.0 ],
-									"text" : "get lead::Harmonic_9::wave_type"
+									"text" : "get bass::Harmonic_9::wave_type"
 								}
 
 							}
@@ -1845,7 +1845,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -1857,7 +1857,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 187.0, 22.0 ],
-									"text" : "get lead::Harmonic_8::wave_type"
+									"text" : "get bass::Harmonic_8::wave_type"
 								}
 
 							}
@@ -2070,7 +2070,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -2082,7 +2082,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 187.0, 22.0 ],
-									"text" : "get lead::Harmonic_7::wave_type"
+									"text" : "get bass::Harmonic_7::wave_type"
 								}
 
 							}
@@ -2295,7 +2295,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -2307,7 +2307,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 187.0, 22.0 ],
-									"text" : "get lead::Harmonic_6::wave_type"
+									"text" : "get bass::Harmonic_6::wave_type"
 								}
 
 							}
@@ -2520,7 +2520,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -2532,7 +2532,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 187.0, 22.0 ],
-									"text" : "get lead::Harmonic_5::wave_type"
+									"text" : "get bass::Harmonic_5::wave_type"
 								}
 
 							}
@@ -2745,7 +2745,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -2757,7 +2757,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 187.0, 22.0 ],
-									"text" : "get lead::Harmonic_4::wave_type"
+									"text" : "get bass::Harmonic_4::wave_type"
 								}
 
 							}
@@ -2970,7 +2970,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -2982,7 +2982,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 187.0, 22.0 ],
-									"text" : "get lead::Harmonic_3::wave_type"
+									"text" : "get bass::Harmonic_3::wave_type"
 								}
 
 							}
@@ -3195,7 +3195,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -3207,7 +3207,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 187.0, 22.0 ],
-									"text" : "get lead::Harmonic_2::wave_type"
+									"text" : "get bass::Harmonic_2::wave_type"
 								}
 
 							}
@@ -3420,7 +3420,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -3432,7 +3432,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 187.0, 22.0 ],
-									"text" : "get lead::Harmonic_1::wave_type"
+									"text" : "get bass::Harmonic_1::wave_type"
 								}
 
 							}
@@ -3645,7 +3645,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -3657,7 +3657,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 192.0, 22.0 ],
-									"text" : "get lead::Fundamental::wave_type"
+									"text" : "get bass::Fundamental::wave_type"
 								}
 
 							}
@@ -3858,7 +3858,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -3870,7 +3870,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 175.0, 22.0 ],
-									"text" : "get lead::Harmonic_15::volume"
+									"text" : "get bass::Harmonic_15::volume"
 								}
 
 							}
@@ -4057,7 +4057,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -4069,7 +4069,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 175.0, 22.0 ],
-									"text" : "get lead::Harmonic_14::volume"
+									"text" : "get bass::Harmonic_14::volume"
 								}
 
 							}
@@ -4256,7 +4256,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -4268,7 +4268,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 175.0, 22.0 ],
-									"text" : "get lead::Harmonic_13::volume"
+									"text" : "get bass::Harmonic_13::volume"
 								}
 
 							}
@@ -4455,7 +4455,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -4467,7 +4467,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 175.0, 22.0 ],
-									"text" : "get lead::Harmonic_12::volume"
+									"text" : "get bass::Harmonic_12::volume"
 								}
 
 							}
@@ -4654,7 +4654,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -4666,7 +4666,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 174.0, 22.0 ],
-									"text" : "get lead::Harmonic_11::volume"
+									"text" : "get bass::Harmonic_11::volume"
 								}
 
 							}
@@ -4853,7 +4853,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -4865,7 +4865,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 175.0, 22.0 ],
-									"text" : "get lead::Harmonic_10::volume"
+									"text" : "get bass::Harmonic_10::volume"
 								}
 
 							}
@@ -5052,7 +5052,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -5064,7 +5064,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 168.0, 22.0 ],
-									"text" : "get lead::Harmonic_9::volume"
+									"text" : "get bass::Harmonic_9::volume"
 								}
 
 							}
@@ -5251,7 +5251,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -5263,7 +5263,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 168.0, 22.0 ],
-									"text" : "get lead::Harmonic_8::volume"
+									"text" : "get bass::Harmonic_8::volume"
 								}
 
 							}
@@ -5450,7 +5450,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -5462,7 +5462,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 168.0, 22.0 ],
-									"text" : "get lead::Harmonic_7::volume"
+									"text" : "get bass::Harmonic_7::volume"
 								}
 
 							}
@@ -5649,7 +5649,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -5661,7 +5661,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 168.0, 22.0 ],
-									"text" : "get lead::Harmonic_6::volume"
+									"text" : "get bass::Harmonic_6::volume"
 								}
 
 							}
@@ -5848,7 +5848,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -5860,7 +5860,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 168.0, 22.0 ],
-									"text" : "get lead::Harmonic_5::volume"
+									"text" : "get bass::Harmonic_5::volume"
 								}
 
 							}
@@ -6047,7 +6047,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -6059,7 +6059,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 168.0, 22.0 ],
-									"text" : "get lead::Harmonic_4::volume"
+									"text" : "get bass::Harmonic_4::volume"
 								}
 
 							}
@@ -6246,7 +6246,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -6258,7 +6258,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 168.0, 22.0 ],
-									"text" : "get lead::Harmonic_3::volume"
+									"text" : "get bass::Harmonic_3::volume"
 								}
 
 							}
@@ -6445,7 +6445,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -6457,7 +6457,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 168.0, 22.0 ],
-									"text" : "get lead::Harmonic_2::volume"
+									"text" : "get bass::Harmonic_2::volume"
 								}
 
 							}
@@ -6644,7 +6644,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -6656,7 +6656,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 134.5, 168.0, 22.0 ],
-									"text" : "get lead::Harmonic_1::volume"
+									"text" : "get bass::Harmonic_1::volume"
 								}
 
 							}
@@ -6808,7 +6808,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get the Lead Fundamental Volume"
+									"text" : "get the bass Fundamental Volume"
 								}
 
 							}
@@ -6855,7 +6855,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -6867,7 +6867,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 173.0, 22.0 ],
-									"text" : "get lead::Fundamental::volume"
+									"text" : "get bass::Fundamental::volume"
 								}
 
 							}
@@ -7019,7 +7019,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 15th Lead Harmonic Multiplier"
+									"text" : "get 15th bass Harmonic Multiplier"
 								}
 
 							}
@@ -7079,7 +7079,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -7091,7 +7091,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 184.0, 22.0 ],
-									"text" : "get lead::Harmonic_15::multiplier"
+									"text" : "get bass::Harmonic_15::multiplier"
 								}
 
 							}
@@ -7269,7 +7269,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 14th Lead Harmonic Multiplier"
+									"text" : "get 14th bass Harmonic Multiplier"
 								}
 
 							}
@@ -7329,7 +7329,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -7341,7 +7341,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 184.0, 22.0 ],
-									"text" : "get lead::Harmonic_14::multiplier"
+									"text" : "get bass::Harmonic_14::multiplier"
 								}
 
 							}
@@ -7519,7 +7519,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 13th Lead Harmonic Multiplier"
+									"text" : "get 13th bass Harmonic Multiplier"
 								}
 
 							}
@@ -7579,7 +7579,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -7591,7 +7591,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 184.0, 22.0 ],
-									"text" : "get lead::Harmonic_13::multiplier"
+									"text" : "get bass::Harmonic_13::multiplier"
 								}
 
 							}
@@ -7769,7 +7769,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 12th Lead Harmonic Multiplier"
+									"text" : "get 12th bass Harmonic Multiplier"
 								}
 
 							}
@@ -7829,7 +7829,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -7841,7 +7841,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 184.0, 22.0 ],
-									"text" : "get lead::Harmonic_12::multiplier"
+									"text" : "get bass::Harmonic_12::multiplier"
 								}
 
 							}
@@ -8019,7 +8019,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 11th Lead Harmonic Multiplier"
+									"text" : "get 11th bass Harmonic Multiplier"
 								}
 
 							}
@@ -8079,7 +8079,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -8091,7 +8091,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 183.0, 22.0 ],
-									"text" : "get lead::Harmonic_11::multiplier"
+									"text" : "get bass::Harmonic_11::multiplier"
 								}
 
 							}
@@ -8269,7 +8269,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 10th Lead Harmonic Multiplier"
+									"text" : "get 10th bass Harmonic Multiplier"
 								}
 
 							}
@@ -8329,7 +8329,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -8341,7 +8341,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 184.0, 22.0 ],
-									"text" : "get lead::Harmonic_10::multiplier"
+									"text" : "get bass::Harmonic_10::multiplier"
 								}
 
 							}
@@ -8519,7 +8519,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 9th Lead Harmonic Multiplier"
+									"text" : "get 9th bass Harmonic Multiplier"
 								}
 
 							}
@@ -8579,7 +8579,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -8591,7 +8591,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 177.0, 22.0 ],
-									"text" : "get lead::Harmonic_9::multiplier"
+									"text" : "get bass::Harmonic_9::multiplier"
 								}
 
 							}
@@ -8769,7 +8769,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 8th Lead Harmonic Multiplier"
+									"text" : "get 8th bass Harmonic Multiplier"
 								}
 
 							}
@@ -8829,7 +8829,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -8841,7 +8841,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 177.0, 22.0 ],
-									"text" : "get lead::Harmonic_8::multiplier"
+									"text" : "get bass::Harmonic_8::multiplier"
 								}
 
 							}
@@ -9019,7 +9019,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 7th Lead Harmonic Multiplier"
+									"text" : "get 7th bass Harmonic Multiplier"
 								}
 
 							}
@@ -9079,7 +9079,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -9091,7 +9091,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 177.0, 22.0 ],
-									"text" : "get lead::Harmonic_7::multiplier"
+									"text" : "get bass::Harmonic_7::multiplier"
 								}
 
 							}
@@ -9269,7 +9269,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 6th Lead Harmonic Multiplier"
+									"text" : "get 6th bass Harmonic Multiplier"
 								}
 
 							}
@@ -9329,7 +9329,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -9341,7 +9341,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 177.0, 22.0 ],
-									"text" : "get lead::Harmonic_6::multiplier"
+									"text" : "get bass::Harmonic_6::multiplier"
 								}
 
 							}
@@ -9519,7 +9519,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 5th Lead Harmonic Multiplier"
+									"text" : "get 5th bass Harmonic Multiplier"
 								}
 
 							}
@@ -9579,7 +9579,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -9591,7 +9591,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 177.0, 22.0 ],
-									"text" : "get lead::Harmonic_5::multiplier"
+									"text" : "get bass::Harmonic_5::multiplier"
 								}
 
 							}
@@ -9769,7 +9769,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 4th Lead Harmonic Multiplier"
+									"text" : "get 4th bass Harmonic Multiplier"
 								}
 
 							}
@@ -9829,7 +9829,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -9841,7 +9841,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 177.0, 22.0 ],
-									"text" : "get lead::Harmonic_4::multiplier"
+									"text" : "get bass::Harmonic_4::multiplier"
 								}
 
 							}
@@ -10019,7 +10019,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 3rd Lead Harmonic Multiplier"
+									"text" : "get 3rd bass Harmonic Multiplier"
 								}
 
 							}
@@ -10079,7 +10079,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -10091,7 +10091,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 177.0, 22.0 ],
-									"text" : "get lead::Harmonic_3::multiplier"
+									"text" : "get bass::Harmonic_3::multiplier"
 								}
 
 							}
@@ -10425,7 +10425,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 100.0, 150.0, 34.0 ],
-									"text" : "get 2nd Lead Harmonic Multiplier"
+									"text" : "get 2nd bass Harmonic Multiplier"
 								}
 
 							}
@@ -10485,7 +10485,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -10497,7 +10497,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 174.0, 177.0, 22.0 ],
-									"text" : "get lead::Harmonic_2::multiplier"
+									"text" : "get bass::Harmonic_2::multiplier"
 								}
 
 							}
@@ -10675,7 +10675,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 50.0, 59.0, 150.0, 34.0 ],
-									"text" : "get the lead harmonic multiplier"
+									"text" : "get the bass harmonic multiplier"
 								}
 
 							}
@@ -10747,7 +10747,7 @@
 										"parameter_mappable" : 0
 									}
 ,
-									"text" : "dict parsedSynths"
+									"text" : "dict parsedDict"
 								}
 
 							}
@@ -10759,7 +10759,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.25, 134.5, 177.0, 22.0 ],
-									"text" : "get lead::Harmonic_1::multiplier"
+									"text" : "get bass::Harmonic_1::multiplier"
 								}
 
 							}
