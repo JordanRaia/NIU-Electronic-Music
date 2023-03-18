@@ -40,12 +40,69 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-42",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1039.0, 22.0, 150.0, 20.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-40",
+					"maxclass" : "toggle",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "int" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 1039.0, 48.0, 24.0, 24.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-36",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 28.0, 16.0, 150.0, 20.0 ],
+					"text" : "Firebase database stuff"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-34",
+					"linecount" : 4,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 132.0, 233.0, 150.0, 62.0 ],
+					"text" : "all data in the firebase database, must turn off metronome to scroll or will keep resetting"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-32",
+					"linecount" : 4,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 103.0, 50.0, 166.0, 62.0 ],
+					"text" : "loads whole database every metronome tick, may have to decrease metronome rate to prevent lag"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-29",
 					"linecount" : 3,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1672.0, 10.0, 150.0, 48.0 ],
+					"patching_rect" : [ 198.0, 777.0, 150.0, 48.0 ],
 					"text" : "want to add pitch bend and vibrato and effects at some point"
 				}
 
@@ -56,7 +113,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1502.0, 10.0, 150.0, 20.0 ],
+					"patching_rect" : [ 28.0, 777.0, 150.0, 20.0 ],
 					"text" : "lead synth"
 				}
 
@@ -67,7 +124,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1874.0, 20.0, 150.0, 20.0 ],
+					"patching_rect" : [ 400.0, 787.0, 150.0, 20.0 ],
 					"text" : "master"
 				}
 
@@ -78,7 +135,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2044.0, 47.0, 150.0, 20.0 ],
+					"patching_rect" : [ 565.0, 787.0, 150.0, 20.0 ],
 					"text" : "attack and release for lead"
 				}
 
@@ -89,7 +146,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2269.0, 46.0, 150.0, 20.0 ],
+					"patching_rect" : [ 2263.0, 40.0, 150.0, 20.0 ],
 					"text" : "WIP"
 				}
 
@@ -101,7 +158,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2269.0, 79.0, 150.0, 48.0 ],
+					"patching_rect" : [ 2263.0, 73.0, 150.0, 48.0 ],
 					"text" : "will add lighting effects with launchpad and visuals with jiter later"
 				}
 
@@ -151,7 +208,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-73",
@@ -2063,7 +2119,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 2269.0, 129.0, 100.0, 22.0 ],
+					"patching_rect" : [ 2263.0, 123.0, 100.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -2081,7 +2137,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1721.0, 335.0, 305.0, 20.0 ],
+					"patching_rect" : [ 459.0, 16.0, 305.0, 20.0 ],
 					"text" : "https://niu-electronic-music-f62f1.web.app/"
 				}
 
@@ -2092,7 +2148,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1502.0, 330.0, 150.0, 20.0 ],
+					"patching_rect" : [ 300.0, 16.0, 150.0, 20.0 ],
 					"text" : "QR Code to go to page"
 				}
 
@@ -2106,7 +2162,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "jit_matrix" ],
-					"patching_rect" : [ 1502.0, 359.0, 713.0, 713.0 ],
+					"patching_rect" : [ 300.0, 45.0, 713.0, 713.0 ],
 					"pic" : "C:/Users/Jordan/Documents/CSCI/Projects/niu_electronic_music/Max/LeadSynthQR.png"
 				}
 
@@ -2408,7 +2464,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 1498.0, 268.0, 103.875, 22.0 ],
+					"patching_rect" : [ 24.0, 1035.0, 103.875, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -2427,7 +2483,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 2127.0, 77.5, 83.0, 22.0 ],
+					"patching_rect" : [ 648.0, 817.5, 83.0, 22.0 ],
 					"text" : "loadmess 300"
 				}
 
@@ -2439,7 +2495,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 2044.0, 77.5, 77.0, 22.0 ],
+					"patching_rect" : [ 565.0, 817.5, 77.0, 22.0 ],
 					"text" : "loadmess 10"
 				}
 
@@ -2452,7 +2508,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 2127.0, 106.5, 50.0, 22.0 ]
+					"patching_rect" : [ 648.0, 846.5, 50.0, 22.0 ]
 				}
 
 			}
@@ -2464,7 +2520,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 2044.0, 106.5, 50.0, 22.0 ]
+					"patching_rect" : [ 565.0, 846.5, 50.0, 22.0 ]
 				}
 
 			}
@@ -2474,7 +2530,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2127.0, 136.5, 57.0, 22.0 ],
+					"patching_rect" : [ 648.0, 876.5, 57.0, 22.0 ],
 					"text" : "s release"
 				}
 
@@ -2485,7 +2541,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 2044.0, 136.5, 50.0, 22.0 ],
+					"patching_rect" : [ 565.0, 876.5, 50.0, 22.0 ],
 					"text" : "s attack"
 				}
 
@@ -2497,7 +2553,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 1874.5, 47.0, 110.0, 22.0 ],
+					"patching_rect" : [ 400.5, 814.0, 110.0, 22.0 ],
 					"text" : "receive~ audio_out"
 				}
 
@@ -2509,7 +2565,7 @@
 					"numinlets" : 9,
 					"numoutlets" : 9,
 					"outlettype" : [ "", "", "", "", "", "", "", "", "" ],
-					"patching_rect" : [ 1498.0, 224.0, 116.0, 22.0 ],
+					"patching_rect" : [ 24.0, 991.0, 116.0, 22.0 ],
 					"text" : "route 1 2 3 4 5 6 7 8"
 				}
 
@@ -2521,7 +2577,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1498.0, 190.0, 64.0, 22.0 ],
+					"patching_rect" : [ 24.0, 957.0, 64.0, 22.0 ],
 					"text" : "pack 0 0 0"
 				}
 
@@ -2533,7 +2589,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 3,
 					"outlettype" : [ "int", "int", "int" ],
-					"patching_rect" : [ 1498.0, 150.0, 51.0, 22.0 ],
+					"patching_rect" : [ 24.0, 917.0, 51.0, 22.0 ],
 					"text" : "poly 8 1"
 				}
 
@@ -2547,7 +2603,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1494.0, 73.5, 336.0, 53.0 ]
+					"patching_rect" : [ 20.0, 840.5, 336.0, 53.0 ]
 				}
 
 			}
@@ -2558,7 +2614,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "int", "int", "int" ],
-					"patching_rect" : [ 1509.5, 37.0, 41.0, 22.0 ],
+					"patching_rect" : [ 35.5, 804.0, 41.0, 22.0 ],
 					"text" : "notein"
 				}
 
@@ -2572,7 +2628,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1874.5, 79.0, 22.0, 140.0 ]
+					"patching_rect" : [ 400.5, 846.0, 22.0, 140.0 ]
 				}
 
 			}
@@ -2583,7 +2639,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 18.0, 183.0, 150.0, 48.0 ],
+					"patching_rect" : [ 132.0, 137.0, 150.0, 48.0 ],
 					"text" : "loads data from firebase and parses the data into parsedDict"
 				}
 
@@ -2755,7 +2811,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 18.0, 235.0, 93.0, 22.0 ],
+					"patching_rect" : [ 132.0, 189.0, 93.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -2773,7 +2829,7 @@
 					"maxclass" : "dict.view",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 18.0, 878.0, 206.0, 385.0 ]
+					"patching_rect" : [ 28.0, 306.0, 202.0, 457.0 ]
 				}
 
 			}
@@ -2784,7 +2840,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 4,
 					"outlettype" : [ "dictionary", "", "", "" ],
-					"patching_rect" : [ 18.0, 808.0, 88.0, 22.0 ],
+					"patching_rect" : [ 28.0, 264.0, 88.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"embed" : 0,
 						"parameter_enable" : 0,
@@ -2802,7 +2858,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 18.0, 766.0, 58.0, 22.0 ],
+					"patching_rect" : [ 28.0, 233.0, 58.0, 22.0 ],
 					"text" : "loadbang"
 				}
 
@@ -2813,7 +2869,7 @@
 					"maxclass" : "ezdac~",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1874.5, 235.0, 40.0, 40.0 ]
+					"patching_rect" : [ 400.5, 1002.0, 40.0, 40.0 ]
 				}
 
 			}
@@ -2824,7 +2880,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 18.0, 10.0, 73.0, 34.0 ],
+					"patching_rect" : [ 28.0, 50.0, 73.0, 34.0 ],
 					"text" : "metronome for firebase"
 				}
 
@@ -2835,7 +2891,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 18.0, 132.0, 79.0, 22.0 ],
+					"patching_rect" : [ 28.0, 172.0, 79.0, 22.0 ],
 					"text" : "s metronome"
 				}
 
@@ -2847,8 +2903,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 18.0, 103.0, 63.0, 22.0 ],
-					"text" : "metro 100"
+					"patching_rect" : [ 28.0, 143.0, 63.0, 22.0 ],
+					"text" : "metro 500"
 				}
 
 			}
@@ -2860,7 +2916,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 18.0, 73.0, 24.0, 24.0 ]
+					"patching_rect" : [ 28.0, 113.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -2871,7 +2927,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 18.0, 46.0, 58.0, 22.0 ],
+					"patching_rect" : [ 28.0, 86.0, 58.0, 22.0 ],
 					"text" : "loadbang"
 				}
 

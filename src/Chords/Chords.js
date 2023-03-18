@@ -119,80 +119,80 @@ function Chords() {
                     </div>
                     <div className="chords__row">
                         <div className="chords__chordLabel">VII</div>
-                        <button onClick={(e) => handleChordChange(1, 7, e)} className={beat1 == 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(2, 7, e)} className={beat2 == 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(3, 7, e)} className={beat3 == 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(4, 7, e)} className={beat4 == 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(5, 7, e)} className={beat5 == 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(6, 7, e)} className={beat6 == 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(7, 7, e)} className={beat7 == 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(8, 7, e)} className={beat8 == 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(1, 7, e)} className={beat1 === 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(2, 7, e)} className={beat2 === 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(3, 7, e)} className={beat3 === 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(4, 7, e)} className={beat4 === 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(5, 7, e)} className={beat5 === 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(6, 7, e)} className={beat6 === 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(7, 7, e)} className={beat7 === 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(8, 7, e)} className={beat8 === 7 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
                     </div>
                     <div className="chords__row">
                         <div className="chords__chordLabel">VI</div>
-                        <button onClick={(e) => handleChordChange(1, 6, e)} className={beat1 == 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(2, 6, e)} className={beat2 == 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(3, 6, e)} className={beat3 == 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(4, 6, e)} className={beat4 == 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(5, 6, e)} className={beat5 == 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(6, 6, e)} className={beat6 == 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(7, 6, e)} className={beat7 == 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(8, 6, e)} className={beat8 == 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(1, 6, e)} className={beat1 === 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(2, 6, e)} className={beat2 === 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(3, 6, e)} className={beat3 === 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(4, 6, e)} className={beat4 === 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(5, 6, e)} className={beat5 === 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(6, 6, e)} className={beat6 === 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(7, 6, e)} className={beat7 === 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(8, 6, e)} className={beat8 === 6 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
                     </div>
                     <div className="chords__row">
                         <div className="chords__chordLabel">v</div>
-                        <button onClick={(e) => handleChordChange(1, 5, e)} className={beat1 == 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(2, 5, e)} className={beat2 == 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(3, 5, e)} className={beat3 == 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(4, 5, e)} className={beat4 == 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(5, 5, e)} className={beat5 == 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(6, 5, e)} className={beat6 == 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(7, 5, e)} className={beat7 == 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(8, 5, e)} className={beat8 == 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(1, 5, e)} className={beat1 === 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(2, 5, e)} className={beat2 === 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(3, 5, e)} className={beat3 === 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(4, 5, e)} className={beat4 === 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(5, 5, e)} className={beat5 === 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(6, 5, e)} className={beat6 === 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(7, 5, e)} className={beat7 === 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(8, 5, e)} className={beat8 === 5 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
                     </div>
                     <div className="chords__row">
                         <div className="chords__chordLabel">iv</div>
-                        <button onClick={(e) => handleChordChange(1, 4, e)} className={beat1 == 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(2, 4, e)} className={beat2 == 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(3, 4, e)} className={beat3 == 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(4, 4, e)} className={beat4 == 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(5, 4, e)} className={beat5 == 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(6, 4, e)} className={beat6 == 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(7, 4, e)} className={beat7 == 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(8, 4, e)} className={beat8 == 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(1, 4, e)} className={beat1 === 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(2, 4, e)} className={beat2 === 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(3, 4, e)} className={beat3 === 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(4, 4, e)} className={beat4 === 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(5, 4, e)} className={beat5 === 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(6, 4, e)} className={beat6 === 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(7, 4, e)} className={beat7 === 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(8, 4, e)} className={beat8 === 4 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
                     </div>
                     <div className="chords__row">
                         <div className="chords__chordLabel">III</div>
-                        <button onClick={(e) => handleChordChange(1, 3, e)} className={beat1 == 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(2, 3, e)} className={beat2 == 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(3, 3, e)} className={beat3 == 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(4, 3, e)} className={beat4 == 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(5, 3, e)} className={beat5 == 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(6, 3, e)} className={beat6 == 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(7, 3, e)} className={beat7 == 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(8, 3, e)} className={beat8 == 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(1, 3, e)} className={beat1 === 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(2, 3, e)} className={beat2 === 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(3, 3, e)} className={beat3 === 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(4, 3, e)} className={beat4 === 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(5, 3, e)} className={beat5 === 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(6, 3, e)} className={beat6 === 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(7, 3, e)} className={beat7 === 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(8, 3, e)} className={beat8 === 3 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
                     </div>
                     <div className="chords__row">
                         <div className="chords__chordLabel">ii<sup>o</sup></div>
-                        <button onClick={(e) => handleChordChange(1, 2, e)} className={beat1 == 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(2, 2, e)} className={beat2 == 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(3, 2, e)} className={beat3 == 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(4, 2, e)} className={beat4 == 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(5, 2, e)} className={beat5 == 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(6, 2, e)} className={beat6 == 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(7, 2, e)} className={beat7 == 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(8, 2, e)} className={beat8 == 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(1, 2, e)} className={beat1 === 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(2, 2, e)} className={beat2 === 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(3, 2, e)} className={beat3 === 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(4, 2, e)} className={beat4 === 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(5, 2, e)} className={beat5 === 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(6, 2, e)} className={beat6 === 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(7, 2, e)} className={beat7 === 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(8, 2, e)} className={beat8 === 2 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
                     </div>
                     <div className="chords__row">
                         <div className="chords__chordLabel">i</div>
-                        <button onClick={(e) => handleChordChange(1, 1, e)} className={beat1 == 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(2, 1, e)} className={beat2 == 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(3, 1, e)} className={beat3 == 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(4, 1, e)} className={beat4 == 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(5, 1, e)} className={beat5 == 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(6, 1, e)} className={beat6 == 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(7, 1, e)} className={beat7 == 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
-                        <button onClick={(e) => handleChordChange(8, 1, e)} className={beat8 == 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(1, 1, e)} className={beat1 === 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(2, 1, e)} className={beat2 === 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(3, 1, e)} className={beat3 === 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(4, 1, e)} className={beat4 === 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(5, 1, e)} className={beat5 === 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(6, 1, e)} className={beat6 === 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(7, 1, e)} className={beat7 === 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
+                        <button onClick={(e) => handleChordChange(8, 1, e)} className={beat8 === 1 ? "chords__buttonActive" : "chords__buttonInactive"}></button>
                     </div>
                 </div>
             </form>
