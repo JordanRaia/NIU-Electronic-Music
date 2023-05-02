@@ -1,8 +1,9 @@
 import React from "react";
 import "./Home.css";
+import Lead from "../Synths/Synth";
 
 function Home() {
-    return <div className="home">Home</div>;
+    return <Lead synth={"lead"} />;
 }
 
 export default Home;
